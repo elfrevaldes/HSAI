@@ -1,1 +1,2 @@
 C:\Users\Elfre\Source\Repos\HSAI\HSAI\bin\Debug\HSAI.exe.config
+\\Mac\Home\Documents\Projects\HSAI\HSAI\bin\Debug\HSAI.exe.config
